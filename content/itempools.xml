@@ -1,0 +1,18 @@
+<ItemPools>
+        <Pool Name="treasure shop">
+                <Item Name="Nicks Boots" Weight="9" DecreaseBy="1" RemoveOn="0"/>
+                <Item Name="Malczewska" Weight="8" DecreaseBy="8" RemoveOn="0"/>
+                <Item Name="Pilawski MFC" Weight="7" DecreaseBy="7" RemoveOn="0"/>
+                <Item Name="Kraska" Weight="10" DecreaseBy="10" RemoveOn="0"/>
+                <Item Name="Oszku" Weight="8" DecreaseBy="8" RemoveOn="0"/>
+                <Item Name="Nicks Coat" Weight="9" DecreaseBy="1" RemoveOn="0"/>
+                <Item Name="tar" Weight="7" DecreaseBy="7" RemoveOn="0"/>
+                <Item Name="72" Weight="6" DecreaseBy="6" RemoveOn="0"/>
+                <Item Name="ZST Stairs" Weight="9" DecreaseBy="9" RemoveOn="0"/>
+                <Item Name="Lesius Bike" Weight="7" DecreaseBy="7" RemoveOn="0"/>
+                <Item Name="ZST Traffic lights" Weight="8" DecreaseBy="8" RemoveOn="0"/>
+                <Item Name="Diss na Kraske" Weight="6" DecreaseBy="6" RemoveOn="0"/>
+                <Item Name="Broken Chemistry Projector" Weight="7" DecreaseBy="7" RemoveOn="0"/>
+                <Item Name="991" Weight="6" DecreaseBy="1" RemoveOn="0"/>
+        </Pool>
+</ItemPools>

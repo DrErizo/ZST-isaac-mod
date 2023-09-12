@@ -1,0 +1,121 @@
+<items gfxroot="gfx/items/" version="1">
+        <passive
+                id="1"
+                cache="damage speed"
+                name="Nicks Boots"
+                description="Stomp! Stomp! Stomp!"
+                gfx="placeholder.png"
+                quality="1"
+        />
+        <passive
+                id="2"
+                cache="familiar"
+                name="Malczewska"
+                description="Attracts enemies and confuses them"
+                gfx="placeholder.png"
+                quality="2"
+        />
+        <passive
+                id="3"
+                cache="damage shotspeed range tearflag"
+                name="Pilawski MFC"
+                description="New tears that look like MFC window components"
+                gfx="placeholder.png"
+                quality="3"
+        />
+        <passive
+                id="4"
+                cache="familiar"
+                name="Kraska"
+                description="Just Runs around the room really fast."
+                gfx="placeholder.png"
+                quality="0"
+        />
+        <passive
+                id="5"
+                cache="familiar"
+                name="Oszku"
+                description="Has a chance to charm enemies"
+                gfx="placeholder.png"
+                quality="2"
+        />
+        <passive
+                id="6"
+                hp="2"
+                soulhearts="4"
+                name="Nicks Coat"
+                description=""
+                gfx="placeholder.png"
+                quality="1"
+        />
+        <passive
+                id="7"
+                cache="all"
+                name="tar"
+                description="A familiar that has a chance to steal and give you a small portion of the stats of enemies"
+                gfx="placeholder.png"
+                quality="3"
+        />
+        <passive
+                id="8"
+                cache="all"
+                name="72"
+                description="Literally no idea"
+                gfx="placeholder.png"
+                quality="4"
+        />
+        <passive
+                id="9"
+                cache="speed shotspeed"
+                name="ZST Stairs"
+                description="No descriptin needed, shot speed up because thinking about them makes you cry"
+                gfx="placeholder.png"
+                quality="1"
+        />
+        <active 
+                id="10"
+                name="Lesius Bike"
+                description="Gives you the power of Lesiu Niedbała"
+                gfx="placeholder.png"
+                maxcharges="5"
+                chargetype="normal"
+                quality="3"
+        />
+        <active 
+                id="11"
+                name="ZST Traffic lights"
+                description="Stops all enemies but only for 5 seconds, if i kept the actual duration you could probably beat the whole game with the enemies still frozen"
+                gfx="placeholder.png"
+                maxcharges="6"
+                chargetype="normal"
+                quality="2"
+        />
+        <active 
+                id="12"
+                name="Diss na Kraske"
+                description="Kills Kraska (in game)"
+                gfx="placeholder.png"
+                maxcharges="1"
+                chargetype="normal"
+                quality="4"
+        />
+        <active 
+                id="13"
+                name="Broken Chemistry Projector"
+                description="Shoots a wave of tears"
+                gfx="placeholder.png"
+                maxcharges="6"
+                chargetype="normal"
+                quality="3"
+        />
+        <active 
+                id="14"
+                name="991"
+                description="Spawns 99 blue spiders"
+                gfx="placeholder.png"
+                maxcharges="12"
+                chargetype="normal"
+                quality="4"
+        />
+
+</items>

@@ -1,0 +1,23 @@
+<players nameimageroot="gfx/ui/boss/" portraitroot="gfx/ui/stage/" root="gfx/characters/costumes/">
+        <player 
+                hp="6"
+                armor="2"
+                bombs="1"
+                name="Erizo" 
+                nameimage="playername_template.png" 
+                portrait="playerportrait_template.png" 
+                skin="character_template.png" 
+                skinColor="-1"
+        />
+        <player 
+                hp="2"
+                armor="2"
+                bombs="5"
+                name="Comet" 
+                nameimage="playername_template.png" 
+                portrait="playerportrait_template.png" 
+                skin="character_template.png" 
+                skinColor="-1"
+        />
+
+</players>
